@@ -13,6 +13,7 @@ Leetcode solutions in c++
 | [0074-search-a-2d-matrix](https://github.com/Kaif0708/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Kaif0708/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kaif0708/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Kaif0708/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Kaif0708/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Kaif0708/Leetcode/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Kaif0708/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -64,6 +65,7 @@ Leetcode solutions in c++
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kaif0708/Leetcode/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/Kaif0708/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Kaif0708/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Kaif0708/Leetcode/tree/master/0229-majority-element-ii) |
 ## Divide and Conquer
@@ -96,4 +98,8 @@ Leetcode solutions in c++
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Kaif0708/Leetcode/tree/master/0493-reverse-pairs) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Kaif0708/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
