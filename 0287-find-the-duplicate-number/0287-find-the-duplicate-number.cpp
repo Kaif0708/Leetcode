@@ -1,6 +1,7 @@
 class Solution {
 public:
     int findDuplicate(vector<int>& nums) {
+        //consider the array as linklist and value at an index points to another node, so for duplicate it forms     a cycle
         int slow=nums[0];
         int fast=nums[0];
         do{
