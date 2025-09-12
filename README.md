@@ -27,6 +27,7 @@ Leetcode solutions in c++
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Kaif0708/Leetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Kaif0708/Leetcode/tree/master/0050-powx-n) |
 ## Matrix
 |  |
 | ------- |
@@ -46,4 +47,8 @@ Leetcode solutions in c++
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Kaif0708/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Kaif0708/Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
