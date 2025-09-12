@@ -6,6 +6,7 @@ Leetcode solutions in c++
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Kaif0708/Leetcode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/Kaif0708/Leetcode/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/Kaif0708/Leetcode/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/Kaif0708/Leetcode/tree/master/0056-merge-intervals) |
@@ -62,6 +63,7 @@ Leetcode solutions in c++
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Kaif0708/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Kaif0708/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Kaif0708/Leetcode/tree/master/0229-majority-element-ii) |
 ## Divide and Conquer
