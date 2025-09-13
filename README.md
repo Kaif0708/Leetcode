@@ -130,4 +130,12 @@ Leetcode solutions in c++
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Kaif0708/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Kaif0708/Leetcode/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Kaif0708/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
