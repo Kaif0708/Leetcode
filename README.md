@@ -18,6 +18,7 @@ Leetcode solutions in c++
 | [0215-kth-largest-element-in-an-array](https://github.com/Kaif0708/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Kaif0708/Leetcode/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Kaif0708/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/Kaif0708/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/Kaif0708/Leetcode/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/Kaif0708/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
@@ -50,6 +51,7 @@ Leetcode solutions in c++
 | [0169-majority-element](https://github.com/Kaif0708/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kaif0708/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Kaif0708/Leetcode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Kaif0708/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -71,18 +73,21 @@ Leetcode solutions in c++
 | [0128-longest-consecutive-sequence](https://github.com/Kaif0708/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Kaif0708/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Kaif0708/Leetcode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Kaif0708/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Kaif0708/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Kaif0708/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kaif0708/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Kaif0708/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/Kaif0708/Leetcode/tree/master/0493-reverse-pairs) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Kaif0708/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Kaif0708/Leetcode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Kaif0708/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Combinatorics
 |  |
 | ------- |
@@ -115,8 +120,14 @@ Leetcode solutions in c++
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kaif0708/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Kaif0708/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kaif0708/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Kaif0708/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Kaif0708/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
