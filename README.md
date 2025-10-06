@@ -22,6 +22,7 @@ Leetcode solutions in c++
 | [0287-find-the-duplicate-number](https://github.com/Kaif0708/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Kaif0708/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Kaif0708/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0416-partition-equal-subset-sum](https://github.com/Kaif0708/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0493-reverse-pairs](https://github.com/Kaif0708/Leetcode/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/Kaif0708/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
@@ -39,6 +40,7 @@ Leetcode solutions in c++
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kaif0708/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Kaif0708/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/Kaif0708/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/Kaif0708/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [1250-longest-common-subsequence](https://github.com/Kaif0708/Leetcode/tree/master/1250-longest-common-subsequence) |
 ## Math
 |  |
