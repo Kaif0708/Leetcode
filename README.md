@@ -15,6 +15,7 @@ Leetcode solutions in c++
 | [0088-merge-sorted-array](https://github.com/Kaif0708/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kaif0708/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Kaif0708/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/Kaif0708/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Kaif0708/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Kaif0708/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kaif0708/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -39,6 +40,7 @@ Leetcode solutions in c++
 | [0064-minimum-path-sum](https://github.com/Kaif0708/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/Kaif0708/Leetcode/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kaif0708/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/Kaif0708/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Kaif0708/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/Kaif0708/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Kaif0708/Leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -86,6 +88,7 @@ Leetcode solutions in c++
 | ------- |
 | [0001-two-sum](https://github.com/Kaif0708/Leetcode/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Kaif0708/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/Kaif0708/Leetcode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Kaif0708/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Kaif0708/Leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Kaif0708/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -150,9 +153,18 @@ Leetcode solutions in c++
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kaif0708/Leetcode/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/Kaif0708/Leetcode/tree/master/0072-edit-distance) |
+| [0139-word-break](https://github.com/Kaif0708/Leetcode/tree/master/0139-word-break) |
 | [1250-longest-common-subsequence](https://github.com/Kaif0708/Leetcode/tree/master/1250-longest-common-subsequence) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kaif0708/Leetcode/tree/master/0020-valid-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Kaif0708/Leetcode/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Kaif0708/Leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
