@@ -25,6 +25,7 @@ Leetcode solutions in c++
 | [0416-partition-equal-subset-sum](https://github.com/Kaif0708/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0493-reverse-pairs](https://github.com/Kaif0708/Leetcode/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/Kaif0708/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/Kaif0708/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Two Pointers
 |  |
 | ------- |
@@ -42,6 +43,7 @@ Leetcode solutions in c++
 | [0300-longest-increasing-subsequence](https://github.com/Kaif0708/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Kaif0708/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [1250-longest-common-subsequence](https://github.com/Kaif0708/Leetcode/tree/master/1250-longest-common-subsequence) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/Kaif0708/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Math
 |  |
 | ------- |
@@ -63,6 +65,7 @@ Leetcode solutions in c++
 | [0215-kth-largest-element-in-an-array](https://github.com/Kaif0708/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Kaif0708/Leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Kaif0708/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/Kaif0708/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Binary Search
 |  |
 | ------- |
