@@ -14,6 +14,7 @@ Leetcode solutions in c++
 | [0088-merge-sorted-array](https://github.com/Kaif0708/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kaif0708/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Kaif0708/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0152-maximum-product-subarray](https://github.com/Kaif0708/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Kaif0708/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kaif0708/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Kaif0708/Leetcode/tree/master/0229-majority-element-ii) |
@@ -32,6 +33,7 @@ Leetcode solutions in c++
 | ------- |
 | [0062-unique-paths](https://github.com/Kaif0708/Leetcode/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kaif0708/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/Kaif0708/Leetcode/tree/master/0152-maximum-product-subarray) |
 ## Math
 |  |
 | ------- |
