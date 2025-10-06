@@ -33,6 +33,7 @@ Leetcode solutions in c++
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Kaif0708/Leetcode/tree/master/0062-unique-paths) |
+| [0072-edit-distance](https://github.com/Kaif0708/Leetcode/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kaif0708/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Kaif0708/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/Kaif0708/Leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -140,6 +141,7 @@ Leetcode solutions in c++
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kaif0708/Leetcode/tree/master/0020-valid-parentheses) |
+| [0072-edit-distance](https://github.com/Kaif0708/Leetcode/tree/master/0072-edit-distance) |
 | [1250-longest-common-subsequence](https://github.com/Kaif0708/Leetcode/tree/master/1250-longest-common-subsequence) |
 ## Stack
 |  |
