@@ -19,6 +19,7 @@ Leetcode solutions in c++
 | [0215-kth-largest-element-in-an-array](https://github.com/Kaif0708/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Kaif0708/Leetcode/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Kaif0708/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Kaif0708/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Kaif0708/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/Kaif0708/Leetcode/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/Kaif0708/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -34,6 +35,7 @@ Leetcode solutions in c++
 | [0062-unique-paths](https://github.com/Kaif0708/Leetcode/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kaif0708/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Kaif0708/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0300-longest-increasing-subsequence](https://github.com/Kaif0708/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -59,6 +61,7 @@ Leetcode solutions in c++
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Kaif0708/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/Kaif0708/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Kaif0708/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0493-reverse-pairs](https://github.com/Kaif0708/Leetcode/tree/master/0493-reverse-pairs) |
 ## Bit Manipulation
 |  |
