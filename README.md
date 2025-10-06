@@ -25,6 +25,7 @@ Leetcode solutions in c++
 | [0347-top-k-frequent-elements](https://github.com/Kaif0708/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/Kaif0708/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0493-reverse-pairs](https://github.com/Kaif0708/Leetcode/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/Kaif0708/Leetcode/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Kaif0708/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Kaif0708/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Two Pointers
@@ -44,6 +45,7 @@ Leetcode solutions in c++
 | [0152-maximum-product-subarray](https://github.com/Kaif0708/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/Kaif0708/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Kaif0708/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Kaif0708/Leetcode/tree/master/0494-target-sum) |
 | [1250-longest-common-subsequence](https://github.com/Kaif0708/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Kaif0708/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Math
@@ -167,4 +169,8 @@ Leetcode solutions in c++
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Kaif0708/Leetcode/tree/master/0139-word-break) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Kaif0708/Leetcode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
