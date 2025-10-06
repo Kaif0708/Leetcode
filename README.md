@@ -10,6 +10,7 @@ Leetcode solutions in c++
 | [0031-next-permutation](https://github.com/Kaif0708/Leetcode/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/Kaif0708/Leetcode/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/Kaif0708/Leetcode/tree/master/0056-merge-intervals) |
+| [0064-minimum-path-sum](https://github.com/Kaif0708/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Kaif0708/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Kaif0708/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kaif0708/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -33,6 +34,7 @@ Leetcode solutions in c++
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Kaif0708/Leetcode/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/Kaif0708/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/Kaif0708/Leetcode/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kaif0708/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Kaif0708/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -48,6 +50,7 @@ Leetcode solutions in c++
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Kaif0708/Leetcode/tree/master/0048-rotate-image) |
+| [0064-minimum-path-sum](https://github.com/Kaif0708/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Kaif0708/Leetcode/tree/master/0074-search-a-2d-matrix) |
 ## Sorting
 |  |
