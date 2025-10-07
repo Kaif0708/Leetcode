@@ -173,4 +173,20 @@ Leetcode solutions in c++
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Kaif0708/Leetcode/tree/master/0494-target-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Kaif0708/Leetcode/tree/master/0207-course-schedule) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Kaif0708/Leetcode/tree/master/0207-course-schedule) |
+## Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Kaif0708/Leetcode/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Kaif0708/Leetcode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
