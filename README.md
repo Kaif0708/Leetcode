@@ -135,6 +135,7 @@ Leetcode solutions in c++
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Kaif0708/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Kaif0708/Leetcode/tree/master/0200-number-of-islands) |
+| [0801-is-graph-bipartite](https://github.com/Kaif0708/Leetcode/tree/master/0801-is-graph-bipartite) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -181,15 +182,18 @@ Leetcode solutions in c++
 | ------- |
 | [0200-number-of-islands](https://github.com/Kaif0708/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Kaif0708/Leetcode/tree/master/0207-course-schedule) |
+| [0801-is-graph-bipartite](https://github.com/Kaif0708/Leetcode/tree/master/0801-is-graph-bipartite) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Kaif0708/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Kaif0708/Leetcode/tree/master/0207-course-schedule) |
+| [0801-is-graph-bipartite](https://github.com/Kaif0708/Leetcode/tree/master/0801-is-graph-bipartite) |
 ## Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Kaif0708/Leetcode/tree/master/0207-course-schedule) |
+| [0801-is-graph-bipartite](https://github.com/Kaif0708/Leetcode/tree/master/0801-is-graph-bipartite) |
 ## Topological Sort
 |  |
 | ------- |
