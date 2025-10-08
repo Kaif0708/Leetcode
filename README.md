@@ -18,6 +18,7 @@ Leetcode solutions in c++
 | [0139-word-break](https://github.com/Kaif0708/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Kaif0708/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Kaif0708/Leetcode/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/Kaif0708/Leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kaif0708/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Kaif0708/Leetcode/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Kaif0708/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -60,6 +61,7 @@ Leetcode solutions in c++
 | [0048-rotate-image](https://github.com/Kaif0708/Leetcode/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/Kaif0708/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Kaif0708/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/Kaif0708/Leetcode/tree/master/0200-number-of-islands) |
 ## Sorting
 |  |
 | ------- |
@@ -132,6 +134,7 @@ Leetcode solutions in c++
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Kaif0708/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Kaif0708/Leetcode/tree/master/0200-number-of-islands) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -176,10 +179,12 @@ Leetcode solutions in c++
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Kaif0708/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Kaif0708/Leetcode/tree/master/0207-course-schedule) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Kaif0708/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Kaif0708/Leetcode/tree/master/0207-course-schedule) |
 ## Graph
 |  |
