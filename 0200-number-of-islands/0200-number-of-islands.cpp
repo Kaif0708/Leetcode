@@ -1,54 +1,57 @@
+//bfs
 class Solution {
+    #define pi pair<int,int>
 public:
-    // comment is for distinct no. of islands
-    // void dfs(int row,int col,vector<vector<char>>&grid,vector<vector<int>>&vis,vector<pair<int,int>>&vec,int row0,int col0){
-    //     vis[row][col]=1;
-    //     vec.push_back({row-row0,col-col0});
-    //     int n=grid.size();
-    //     int m=grid[0].size();
-    //     int delrow[]={-1,0,+1,0};
-    //     int delcol[]={0,+1,0,-1};
-    //     for(int i=0;i<4;i++){
-    //         int nrow=row+delrow[i];
-    //         int ncol=col+delcol[i];
-    //         if(nrow>=0 && nrow<n && ncol>=0 && ncol<m && !vis[nrow][ncol]&& grid[nrow][ncol]=='1'){
-    //             dfs(nrow,ncol,grid,vis,vec,row0,col0);
-    //         }
-    //     }
-    // }
-     void dfs(int row,int col,vector<vector<char>>&grid,vector<vector<int>>&vis){
-        vis[row][col]=1;
-        
-        int n=grid.size();
-        int m=grid[0].size();
-        int delrow[]={-1,0,+1,0};
-        int delcol[]={0,+1,0,-1};
-        for(int i=0;i<4;i++){
-            int nrow=row+delrow[i];
-            int ncol=col+delcol[i];
-            if(nrow>=0 && nrow<n && ncol>=0 && ncol<m && !vis[nrow][ncol]&& grid[nrow][ncol]=='1'){
-                dfs(nrow,ncol,grid,vis);
-            }
-        }
-    }
     int numIslands(vector<vector<char>>& grid) {
-        int n=grid.size();
-        int m=grid[0].size();
-        vector<vector<int>> vis(n,vector<int>(m,0));
-        //set<vector<pair<int,int>>> shapes;
-        int cnt=0;
+        int n = grid.size();
+        int m = grid[0].size();
+
+        vector<vector<bool>> visited(n , vector<bool>(m , false));
+
+        int count = 0;
         for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
-                if(!vis[i][j] && grid[i][j]=='1'){
-                    //vector<pair<int,int>>vec;
-                    cnt++;
-                    dfs(i,j,grid,vis);
-                    //dfs(i,j,grid,vis,vec,i,j);
-                    //shapes.insert(vec);
+            for(int j=0; j<m ;j++){
+                if(grid[i][j] == '1' && !visited[i][j]){
+                    count++;
+                    bfs(grid , visited , i , j);
                 }
             }
+        }
+
+        return count;
     }
-        //return shapes.size();
-        return cnt;
+
+    void bfs(vector<vector<char>>& grid , vector<vector<bool>> &visited , int i , int j){
+        int n = grid.size();
+        int m = grid[0].size();
+
+        queue<pi> q;
+        q.push({i , j});
+        vector<int> dir = {0 , 1 , 0 , -1 , 0};
+
+        while(!q.empty()){
+            pi curr = q.front();
+            int x = curr.first;
+            int y = curr.second;
+            visited[x][y] = true;
+            q.pop();
+
+            for(int i=0 ;i <dir.size()-1 ; i++){
+                int nx  = x + dir[i];
+                int ny  = y + dir[i+1];
+                if(isvalid(nx , ny , n , m ) && !visited[nx][ny] && grid[nx][ny] == '1'){
+                    q.push({nx , ny});
+                    visited[nx][ny] = true;
+                }
+            }
+
+        }
+
     }
+
+    bool isvalid(int x, int y , int n , int m){
+        return (x>=0 && y>=0 && x<n && y<m);
+    }
+
+
 };
