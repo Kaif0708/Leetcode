@@ -8,6 +8,7 @@ Leetcode solutions in c++
 | ------- |
 | [0001-two-sum](https://github.com/Kaif0708/Leetcode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/Kaif0708/Leetcode/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Kaif0708/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/Kaif0708/Leetcode/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/Kaif0708/Leetcode/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/Kaif0708/Leetcode/tree/master/0064-minimum-path-sum) |
@@ -76,6 +77,7 @@ Leetcode solutions in c++
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Kaif0708/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Kaif0708/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/Kaif0708/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Kaif0708/Leetcode/tree/master/0300-longest-increasing-subsequence) |
