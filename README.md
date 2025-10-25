@@ -27,6 +27,7 @@ Leetcode solutions in c++
 | [0416-partition-equal-subset-sum](https://github.com/Kaif0708/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0493-reverse-pairs](https://github.com/Kaif0708/Leetcode/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/Kaif0708/Leetcode/tree/master/0494-target-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Kaif0708/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Kaif0708/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Kaif0708/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Two Pointers
@@ -79,6 +80,7 @@ Leetcode solutions in c++
 | [0287-find-the-duplicate-number](https://github.com/Kaif0708/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Kaif0708/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0493-reverse-pairs](https://github.com/Kaif0708/Leetcode/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Kaif0708/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Bit Manipulation
 |  |
 | ------- |
