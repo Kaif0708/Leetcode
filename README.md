@@ -28,6 +28,7 @@ Leetcode solutions in c++
 | [0300-longest-increasing-subsequence](https://github.com/Kaif0708/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Kaif0708/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/Kaif0708/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0485-max-consecutive-ones](https://github.com/Kaif0708/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Kaif0708/Leetcode/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/Kaif0708/Leetcode/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Kaif0708/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
