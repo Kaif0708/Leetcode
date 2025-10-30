@@ -9,6 +9,7 @@ Leetcode solutions in c++
 | [0001-two-sum](https://github.com/Kaif0708/Leetcode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/Kaif0708/Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Kaif0708/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Kaif0708/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Kaif0708/Leetcode/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/Kaif0708/Leetcode/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/Kaif0708/Leetcode/tree/master/0064-minimum-path-sum) |
@@ -35,11 +36,13 @@ Leetcode solutions in c++
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Kaif0708/Leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Kaif0708/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Kaif0708/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/Kaif0708/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Kaif0708/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Kaif0708/Leetcode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Kaif0708/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/Kaif0708/Leetcode/tree/master/0072-edit-distance) |
@@ -169,6 +172,7 @@ Leetcode solutions in c++
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kaif0708/Leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Kaif0708/Leetcode/tree/master/0042-trapping-rain-water) |
 ## Trie
 |  |
 | ------- |
@@ -202,4 +206,8 @@ Leetcode solutions in c++
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Kaif0708/Leetcode/tree/master/0207-course-schedule) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Kaif0708/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
