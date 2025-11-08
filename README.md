@@ -34,6 +34,7 @@ Leetcode solutions in c++
 | [0496-next-greater-element-i](https://github.com/Kaif0708/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Kaif0708/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Kaif0708/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1036-rotting-oranges](https://github.com/Kaif0708/Leetcode/tree/master/1036-rotting-oranges) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Kaif0708/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Two Pointers
 |  |
@@ -71,6 +72,7 @@ Leetcode solutions in c++
 | [0064-minimum-path-sum](https://github.com/Kaif0708/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Kaif0708/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Kaif0708/Leetcode/tree/master/0200-number-of-islands) |
+| [1036-rotting-oranges](https://github.com/Kaif0708/Leetcode/tree/master/1036-rotting-oranges) |
 ## Sorting
 |  |
 | ------- |
@@ -203,6 +205,7 @@ Leetcode solutions in c++
 | [0200-number-of-islands](https://github.com/Kaif0708/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Kaif0708/Leetcode/tree/master/0207-course-schedule) |
 | [0801-is-graph-bipartite](https://github.com/Kaif0708/Leetcode/tree/master/0801-is-graph-bipartite) |
+| [1036-rotting-oranges](https://github.com/Kaif0708/Leetcode/tree/master/1036-rotting-oranges) |
 ## Graph
 |  |
 | ------- |
