@@ -12,6 +12,7 @@ Leetcode solutions in c++
 | [0033-search-in-rotated-sorted-array](https://github.com/Kaif0708/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Kaif0708/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Kaif0708/Leetcode/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/Kaif0708/Leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Kaif0708/Leetcode/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/Kaif0708/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Kaif0708/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -48,6 +49,7 @@ Leetcode solutions in c++
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Kaif0708/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Kaif0708/Leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Kaif0708/Leetcode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Kaif0708/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/Kaif0708/Leetcode/tree/master/0072-edit-distance) |
@@ -114,6 +116,7 @@ Leetcode solutions in c++
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Kaif0708/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Kaif0708/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kaif0708/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Kaif0708/Leetcode/tree/master/0347-top-k-frequent-elements) |
