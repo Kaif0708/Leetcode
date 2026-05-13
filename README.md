@@ -198,12 +198,14 @@ Leetcode solutions in c++
 | ------- |
 | [0200-number-of-islands](https://github.com/Kaif0708/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Kaif0708/Leetcode/tree/master/0207-course-schedule) |
+| [0785-is-graph-bipartite](https://github.com/Kaif0708/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0801-is-graph-bipartite](https://github.com/Kaif0708/Leetcode/tree/master/0801-is-graph-bipartite) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Kaif0708/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Kaif0708/Leetcode/tree/master/0207-course-schedule) |
+| [0785-is-graph-bipartite](https://github.com/Kaif0708/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0801-is-graph-bipartite](https://github.com/Kaif0708/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [1036-rotting-oranges](https://github.com/Kaif0708/Leetcode/tree/master/1036-rotting-oranges) |
 ## Graph
@@ -224,4 +226,9 @@ Leetcode solutions in c++
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Kaif0708/Leetcode/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/Kaif0708/Leetcode/tree/master/0785-is-graph-bipartite) |
+## Graph Theory
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Kaif0708/Leetcode/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
