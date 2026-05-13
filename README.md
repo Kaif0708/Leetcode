@@ -220,4 +220,8 @@ Leetcode solutions in c++
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Kaif0708/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Kaif0708/Leetcode/tree/master/0496-next-greater-element-i) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Kaif0708/Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
